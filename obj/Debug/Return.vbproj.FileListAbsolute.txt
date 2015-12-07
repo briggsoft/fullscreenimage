@@ -1,0 +1,13 @@
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\bin\Debug\Return.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\bin\Debug\Return.pdb
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\bin\Debug\Return.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\obj\Debug\Return.Form1.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\obj\Debug\Return.Resources.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\obj\Debug\Return.vbproj.GenerateResource.Cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\obj\Debug\Return.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\obj\Debug\Return.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Return\obj\Debug\Return.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Return\Return\obj\Debug\Return.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Return\Return\obj\Debug\Return.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Return\Return\obj\Debug\Return.pdb
